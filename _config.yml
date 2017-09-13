@@ -1,0 +1,24 @@
+# Website settings
+title: Priya Ramachandran
+email: priya29ramachandran@gmail.com
+description: Freelance Writer and Content Strategist.
+baseurl: "/priyaramachandran"
+url: "http://priyaramachandran.com"
+twitter_username: jekyllrb
+github_username: none
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclusions
+exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
